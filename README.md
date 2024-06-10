@@ -5,7 +5,7 @@
 <br> **Client:** Yeah I do use a lot of platforms like Wynk Music, JioSaavn, YouTube Music and presently **Spotify**.
 <br> **Sumanth:** We shall take Spotify for the project and collect the trending song details along with albums and artists.
 # Architecture
-![Main](https://github.com/sumanthmalipeddi/spotify_trending_telugu/blob/main/dfdf.drawio.png)
+![Main](https://github.com/sumanthmalipeddi/spotify_trending_telugu/blob/main/Architecture.png)
 # Technology Used
 * Programming Language - Python
 * Amazon Web Services Cloud Platform
