@@ -1,9 +1,9 @@
 # Spotify - Trending Telugu Songs List
 ## Story Line:
 **Client:** I need a list of trending Telugu songs and to collect the album, artists and song details in the database for future analytics purposes.
-<br>**Sumanth:** Is there any particular platform you regularly use to listen to the songs?
+<br>**Developer:** Is there any particular platform you regularly use to listen to the songs?
 <br> **Client:** Yeah I do use a lot of platforms like Wynk Music, JioSaavn, YouTube Music and presently **Spotify**.
-<br> **Sumanth:** We shall take Spotify for the project and collect the trending song details along with albums and artists.
+<br> **Developer:** We shall take Spotify for the project and collect the trending song details along with albums and artists.
 # Architecture
 ![Main](https://github.com/sumanthmalipeddi/spotify_trending_telugu/blob/main/Architecture.png)
 # Technology Used
