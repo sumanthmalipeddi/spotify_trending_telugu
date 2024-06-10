@@ -1,1 +1,1 @@
-# spotify_trending_telugu
+# Spotify - Trending Telugu Songs List
