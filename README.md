@@ -203,7 +203,19 @@ def lambda_handler(event, context):
 ```
 #MySQL
 SELECT * FROM "spoitfy_db"."songs" LIMIT 10; #Execute Each Line
+```
+![Songs Data](https://github.com/sumanthmalipeddi/spotify_trending_telugu/assets/118842072/d62cfef6-e30d-4c9a-b52d-ef5464353443)
+
+```
 SELECT * FROM "spoitfy_db"."albums" LIMIT 10; #Execute Each Line
+```
+![Album Data](https://github.com/sumanthmalipeddi/spotify_trending_telugu/assets/118842072/0acf8dba-935f-402a-9205-fe8847fd36e8)
+
+```
 SELECT * FROM "spoitfy_db"."artists" LIMIT 10; #Execute Each Line
 ```
+![Artist Data](https://github.com/sumanthmalipeddi/spotify_trending_telugu/assets/118842072/c1e7de80-dcc3-44c9-8093-23127dc2fd1c)
+
+
+
 ### Here, the Successful retrieval of Data from the tables closes the Data Engineering Part of analytics.
